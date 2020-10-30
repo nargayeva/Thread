@@ -10,7 +10,7 @@ public class Downloader {
     public static String link1 = "http://www.ubicomp.org/ubicomp2003/adjunct_proceedings/proceedings.pdf";
     public static String link2 = "https://www.hq.nasa.gov/alsj/a17/A17_FlightPlan.pdf";
     public static String link3 = "https://ars.els-cdn.com/content/image/1-s2.0-S0140673617321293-mmc1.pdf";
-    public static String link4 = "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf";
+    public static String link4 = "http://www.visitgreece.gr/deployedFiles/StaticFiles/maps/Peloponnese_map.pdf";
 
     public static void main(String[] args) throws InterruptedException {
         int thread_more = Integer.parseInt(args[0]); // getting 0 or 1 from user
